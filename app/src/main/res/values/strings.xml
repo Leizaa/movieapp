@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="failed_response">Internal Server Error</string>
+    <string name="error_response">Error Call</string>
+    <string name="guest">Guest</string>
+    <string name="title_activity_dashboardactivity">Dashboardactivity</string>
+    <string name="movies_tab">Movies</string>
+    <string name="tv_shows_tab">TV Shows</string>
+
+    <string name="overview_label">Overview</string>
+    <string name="release_date_label">Release date</string>
+    <string name="review_label">Review</string>
+
+    <string name="trending_label">Trending</string>
+    <string name="discover_label">Discover</string>
+</resources>
